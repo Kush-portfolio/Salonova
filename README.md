@@ -47,5 +47,7 @@ This project was developed to practice and demonstrate understanding of:
 - Problem-solving and logic building
 
 ## 👤 Author
-
+## Check product upload system.
+user id kush007
+password 12345
 Kushal Kumar
